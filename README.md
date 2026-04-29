@@ -33,7 +33,7 @@ This repository is the central hub for my journey through the **42 Berlin Common
 | 4 | [Exam Rank 04](https://github.com/thedreamJK7/exam-rank-4) | 42 exam — microshell | C | ✅ |
 | 4 | [CPP Modules 00–04](https://github.com/thedreamJK7/CPP-projects) | OOP fundamentals | C++ | ⏳ |
 | 4 | [NetPractice](https://github.com/thedreamJK7/net_practice) | Networking exercises (TCP/IP, Subnets) | Network | ✅ |
-| 5 | [CPP Modules 05–09](https://github.com/thedreamjk7/cpp_modules) | Advanced C++ (STL, templates, casting) | C++ | ⏳ |
+| 5 | CPP Modules 05–09 | Advanced C++ (STL, templates, casting) | C++ | ⏳ |
 | 5 | Inception | Docker + LEMP stack setup | Docker | ⏳ |
 | 5 | webserv | HTTP server from scratch | C++ | ⏳ |
 | 6 | ft_transcendence | Full-stack SPA Pong game | TS, NestJS | ⏳ |
