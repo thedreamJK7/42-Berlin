@@ -28,7 +28,9 @@ This repository is the central hub for my journey through the **42 Berlin Common
 | 2 | [minitalk](https://github.com/thedreamJK7/minitalk) | Client/server communication using UNIX signals | C, Unix | ✅ |
 | 3 | [minishell](https://github.com/thedreamjk7/minishell) | Custom shell (bash-like) | C | ✅ |
 | 3 | [philosophers](https://github.com/thedreamjk7/philosophers_42) | Dining Philosophers — concurrency problem | C, Threads | ✅ |
+| 3 | [Exam Rank 03](https://github.com/thedreamJK7/exam-rank-03) | 42 exam — ft_printf recreation | C | ✅ |
 | 4 | [miniRT](https://github.com/thedreamJK7/miniRT_42Berlin) | Ray tracer from scratch | C, MiniLibX | ✅ |
+| 4 | [Exam Rank 04](https://github.com/thedreamJK7/exam-rank-4) | 42 exam — microshell | C | ✅ |
 | 4 | [CPP Modules 00–04](https://github.com/thedreamjk7/cpp_modules) | OOP fundamentals | C++ | ✅ |
 | 4 | [NetPractice](https://github.com/thedreamjk7/netpractice) | Networking exercises (TCP/IP, Subnets) | Network | ✅ |
 | 5 | [CPP Modules 05–09](https://github.com/thedreamjk7/cpp_modules) | Advanced C++ (STL, templates, casting) | C++ | ✅ |
