@@ -117,7 +117,7 @@ Client/server communication using only UNIX signals.
 ## 📬 Contact
 
 - GitHub: [thedreamjk7](https://github.com/thedreamjk7)
-- LinkedIn: *(add your link)*
+- LinkedIn: [Jony Kubaev](https://www.linkedin.com/in/jony-kubaev-6b1a16204/)
 
 ---
 
