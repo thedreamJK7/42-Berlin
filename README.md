@@ -31,9 +31,9 @@ This repository is the central hub for my journey through the **42 Berlin Common
 | 3 | [Exam Rank 03](https://github.com/thedreamJK7/exam-rank-03) | 42 exam — ft_printf recreation | C | ✅ |
 | 4 | [miniRT](https://github.com/thedreamJK7/miniRT_42Berlin) | Ray tracer from scratch | C, MiniLibX | ✅ |
 | 4 | [Exam Rank 04](https://github.com/thedreamJK7/exam-rank-4) | 42 exam — microshell | C | ✅ |
-| 4 | [CPP Modules 00–04](https://github.com/thedreamjk7/cpp_modules) | OOP fundamentals | C++ | ✅ |
+| 4 | [CPP Modules 00–04](https://github.com/thedreamjk7/cpp_modules) | OOP fundamentals | C++ | ⏳ |
 | 4 | [NetPractice](https://github.com/thedreamjk7/netpractice) | Networking exercises (TCP/IP, Subnets) | Network | ✅ |
-| 5 | [CPP Modules 05–09](https://github.com/thedreamjk7/cpp_modules) | Advanced C++ (STL, templates, casting) | C++ | ✅ |
+| 5 | [CPP Modules 05–09](https://github.com/thedreamjk7/cpp_modules) | Advanced C++ (STL, templates, casting) | C++ | ⏳ |
 | 5 | [Inception](https://github.com/thedreamjk7/inception) | Docker + LEMP stack setup | Docker | ⏳ |
 | 5 | [webserv](https://github.com/thedreamjk7/webserv) | HTTP server from scratch | C++ | ⏳ |
 | 6 | [ft_transcendence](https://github.com/thedreamjk7/ft_transcendence) | Full-stack SPA Pong game | TS, NestJS | ⏳ |
