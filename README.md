@@ -22,7 +22,7 @@ This repository is the central hub for my journey through the **42 Berlin Common
 | 0 | [Libft](https://github.com/thedreamjk7/libft) | Reimplementation of standard C library functions | C, Makefile | ✅ |
 | 1 | [ft_printf](https://github.com/thedreamjk7/ft_printf) | Custom implementation of printf | C | ✅ |
 | 1 | [get_next_line](https://github.com/thedreamjk7/get_next_line) | Read line-by-line from a file descriptor | C | ✅ |
-| 1 | [Born2beroot](https://github.com/thedreamjk7/born2beroot) | System administration (VM, SSH, UFW, LVM) | Bash | ✅ |
+| 1 | Born2beroot | System administration (VM, SSH, UFW, LVM) | Bash | ✅ |
 | 2 | [push_swap](https://github.com/thedreamjk7/push_swap) | Sorting algorithm with minimal operations | C, Algos | ✅ |
 | 2 | [so_long](https://github.com/thedreamjk7/so_long) | 2D game using MiniLibX | C, MiniLibX | ✅ |
 | 2 | [minitalk](https://github.com/thedreamJK7/minitalk) | Client/server communication using UNIX signals | C, Unix | ✅ |
